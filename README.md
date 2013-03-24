@@ -39,8 +39,8 @@ It is a bit of a far shot, but it has slick components:
 - Swapping out different test frameworks
 
 I have done some work on this which can be found here:
-https://github.com/twolfson/doubleshot
-https://github.com/twolfson/sculptor - Abandoned predecessor which was overgeneralized
-https://github.com/Ensighten/crossbones - Abandoned predecessor which was short sighted (compiles to different frameworks)
+ - https://github.com/twolfson/doubleshot
+ - https://github.com/twolfson/sculptor - Abandoned predecessor which was overgeneralized
+ - https://github.com/Ensighten/crossbones - Abandoned predecessor which was short sighted (compiles to different frameworks)
 
 Thank you.
